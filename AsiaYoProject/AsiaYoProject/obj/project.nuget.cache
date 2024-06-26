@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYO7LR1ayBWfVhqgBfyeR5aC4rAw0NiZo8umMcrm7ClGyD2EbxAEpI5++4ckt8iFSa8u03+IqsuaxrEKYQQL4g==",
+  "success": true,
+  "projectFilePath": "D:\\6.程式\\2. AsiaYo\\AsiaYo\\AsiaYoProject\\AsiaYoProject\\AsiaYoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\雄\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\雄\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\雄\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\雄\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\雄\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\雄\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
